@@ -1,0 +1,3 @@
+refGene	../../DB/NMAndAA/refGene_hg38.txt
+Reference	../../DB/Reference/hg38/ucsc.hg38.fasta
+Bedtools	../../Softs/bedtools-2.26/bin/bedtools
